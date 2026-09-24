@@ -1,0 +1,16 @@
+{
+  "chat": {
+    "qwen2.5:0.5b": {
+      "promptPrice": 0.00001,
+      "completionPrice": 0.00002
+    },
+    "smollm2:360m": {
+      "promptPrice": 0.000005,
+      "completionPrice": 0.00001
+    },
+    "llama2:7b": {
+      "promptPrice": 0.0002,
+      "completionPrice": 0.0004
+    }
+  }
+}
